@@ -3,7 +3,7 @@ A collaborative grocery list mobile web app designed to help families and roomma
 
 This project is developed using SDLC principles, and here are the key documents:
 
-- [Project Charter]()
+- [Project Charter](docs/project_charter.md)
 - [Functional Requirements]()
 - [System Design]()
 - [Test Plan]()
